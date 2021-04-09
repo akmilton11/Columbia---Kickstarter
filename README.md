@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Kickstarter-Analysis
 ## Overview of Project:
 There were a few purposes to this project: 
 1.	To evaluate/demonstrate my excel skills, which in turn was to create two analyses on outcomes based on goals and outcomes based on launch dates. 
