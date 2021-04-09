@@ -14,6 +14,8 @@ COUNTIFS(Data!$F:$F,D$1,Data!$D:$D,">="&$A3,Data!$D:$D,"<="&$B3,Data!$R:$R,"Play
  * Most successful months to launch were May & June
  * ~65-67% of the projects were successful in those months
  * The tail end of the year (October to December) see a steep decline in successful projects. If you combine failed and canceled slightly more than 50% of the projected did not succeed.
+![](Photos
+
 ### Conclusions – “Outcomes based on Goals”
  * When looking at the line graph we can clearly see three points of intersection.
  * Louise should focus her attention on those ranges which are above the points of intersection and that have the greatest count. The sweet spot seems to be $0 to $4,999 as that represents ~76% of successful projects in total.
