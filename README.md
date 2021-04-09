@@ -20,19 +20,19 @@ COUNTIFS(Data!$F:$F,D$1,Data!$D:$D,">="&$A3,Data!$D:$D,"<="&$B3,Data!$R:$R,"Play
 ![](Resources/Outcomes_vs_Goals.png)
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
  * Most successful months to launch were May & June
  * ~65-67% of the projects were successful in those months
  * The tail end of the year (October to December) see a steep decline in successful projects. If you combine failed and canceled slightly more than 50% of the projected did not succeed.
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
  * When looking at the line graph we can clearly see three points of intersection.
  * Louise should focus her attention on those ranges which are above the points of intersection and that have the greatest count. The sweet spot seems to be $0 to $4,999 as that represents ~76% of successful projects in total.
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
  * If Louise is looking to set up a Kickstarter in 2021, the limitations would be that the data is stale. Historical trends are always great to look at, but fresh data can change your opinion very quickly.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
  * We could show some of the same effects from the “Theater Outcomes by Launch Date” in a stacked or clustered column chart – visually it shows a similar message.
  * “Outcomes Based on Goals” – we can change the goal range to hone in larger count of successful and failed projects. Smaller ranges may help Louise see a better assortment of projects
 
