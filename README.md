@@ -11,9 +11,6 @@ There were a few purposes to this project:
  * “Outcomes Based on Goals” tab – represents the outcome of “Plays” projects (successful, canceled, failed) based on the goal of the Kickstarter. Each projected was counted using a “COUNTIFS”. I used the “COUNTIFS” function and additional levers to create a seamless formula. I added the low and high points of each goal, as well as the text of successful, failed, and canceled. The formula below can be copied and dragged across without having the manually type. 
 COUNTIFS(Data!$F:$F,D$1,Data!$D:$D,">="&$A3,Data!$D:$D,"<="&$B3,Data!$R:$R,"Plays")
 
-### Challenges and Difficulties Encountered
-  * One challenge was trying to find a formula that flows rather than manually typing anything out.
-
 ## Results:
 ### Analysis of Outcomes Based on Launch Date
 
@@ -22,6 +19,9 @@ COUNTIFS(Data!$F:$F,D$1,Data!$D:$D,">="&$A3,Data!$D:$D,"<="&$B3,Data!$R:$R,"Play
 ### Analysis of Outcomes Based on Goals
 
 ![](Resources/Outcomes_vs_Goals.png)
+
+### Challenges and Difficulties Encountered
+  * One challenge was trying to find a formula that flows rather than manually typing anything out.
 
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
